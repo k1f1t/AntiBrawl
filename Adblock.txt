@@ -1,0 +1,4 @@
+||https://supercell.com^
+||https://brawlstars.com^
+||https://api.brawlstars.com^
+||https://api.supercell.com^
